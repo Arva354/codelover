@@ -24,3 +24,4 @@ next remember to make an css and javascript file and connect it with this
 <script src="script.js"></script>
 
 That's all i can type later i'll show you the steps sorry about that😅.
+And sorry it's in progress so the code may be wrong so don't use it.
